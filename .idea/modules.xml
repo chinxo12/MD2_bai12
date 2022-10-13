@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MD2-Bai12-TH1-Map-HashMap-TreeMap/MD2-Bai12-TH1-Map-HashMap-TreeMap.iml" filepath="$PROJECT_DIR$/MD2-Bai12-TH1-Map-HashMap-TreeMap/MD2-Bai12-TH1-Map-HashMap-TreeMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MD2-Bai12-TH2-Phan-Biet-HashMap-HashSet/MD2-Bai12-TH2-Phan-Biet-HashMap-HashSet.iml" filepath="$PROJECT_DIR$/MD2-Bai12-TH2-Phan-Biet-HashMap-HashSet/MD2-Bai12-TH2-Phan-Biet-HashMap-HashSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MD2-Bai12-TH3-Comparable-Comparator/MD2-Bai12-TH3-Comparable-Comparator.iml" filepath="$PROJECT_DIR$/MD2-Bai12-TH3-Comparable-Comparator/MD2-Bai12-TH3-Comparable-Comparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MD2-Bai12-TH4-BST-Binary/MD2-Bai12-TH4-BST-Binary.iml" filepath="$PROJECT_DIR$/MD2-Bai12-TH4-BST-Binary/MD2-Bai12-TH4-BST-Binary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/bai12.iml" filepath="$PROJECT_DIR$/.idea/bai12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap1/baitap1.iml" filepath="$PROJECT_DIR$/baitap1/baitap1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap2/baitap2.iml" filepath="$PROJECT_DIR$/baitap2/baitap2.iml" />
+    </modules>
+  </component>
+</project>
